@@ -43,11 +43,8 @@
 
 <td width="70%" valign="top">
 <div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Portfolio Link </h2>
   <br>
-  <a href="mailto:relu00123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
-  </a>
   <a href="https://elemental-chance-5a8.notion.site/2ae135971f3c8071a65ec8aa8bda7821?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
   </a>
